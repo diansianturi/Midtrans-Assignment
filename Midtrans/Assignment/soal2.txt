@@ -1,0 +1,1 @@
+Dapat dikerjakan dengan algoritma divide and conquer. Yaitu dengan memecah-mecah setiap elemen pada transaction. Jika ada elemen pada transaction berbeda yang sama, maka transaction tersebut dilakukan oleh customer yang sama
